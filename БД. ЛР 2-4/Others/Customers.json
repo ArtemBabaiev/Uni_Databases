@@ -1,0 +1,57 @@
+[
+	{
+		"idCustomers" : 1,
+		"customerCode" : "001",
+		"surname" : "Бабаєв",
+		"firstname" : "Артем",
+		"middlename" : "Ілліч",
+		"address" : "Адреса 1",
+		"phoneNumber" : "11111",
+		"email" : "email1@i.ua",
+		"isRegularCustomer" : false
+	},
+	{
+		"idCustomers" : 2,
+		"customerCode" : "002",
+		"surname" : "Колотило",
+		"firstname" : "Олексій",
+		"middlename" : "По батькові 2",
+		"address" : "Адреса 2",
+		"phoneNumber" : "22222",
+		"email" : "email2@i.ua",
+		"isRegularCustomer" : true
+	},
+	{
+		"idCustomers" : 3,
+		"customerCode" : "003",
+		"surname" : "Коваль",
+		"firstname" : "Валентина",
+		"middlename" : "По батькові 3",
+		"address" : "Адреса 3",
+		"phoneNumber" : "33333",
+		"email" : "email3@i.ua",
+		"isRegularCustomer" : false
+	},
+	{
+		"idCustomers" : 4,
+		"customerCode" : "004",
+		"surname" : "Павлюк",
+		"firstname" : "Ігор",
+		"middlename" : "Олегович",
+		"address" : "Адреса 4",
+		"phoneNumber" : "44444",
+		"email" : "email4@i.ua",
+		"isRegularCustomer" : true
+	},
+	{
+		"idCustomers" : 5,
+		"customerCode" : "005",
+		"surname" : "Драгомирецька",
+		"firstname" : "Емілія",
+		"middlename" : "По батькові 5",
+		"address" : "Адреса 5",
+		"phoneNumber" : "55555",
+		"email" : "email5@i.ua",
+		"isRegularCustomer" : false
+	}
+]

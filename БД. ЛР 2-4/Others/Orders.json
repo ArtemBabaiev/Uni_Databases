@@ -1,0 +1,42 @@
+[
+	{
+		"idOrders" : 1,
+		"orderCode" : "201",
+		"Customers_id" : 1,
+		"costOfOrder" : 150,
+		"dateOfSale" : "2021-01-01",
+		"dateOfDelivery" : "2021-01-02"
+	},
+	{
+		"idOrders" : 2,
+		"orderCode" : "202",
+		"Customers_id" : 2,
+		"costOfOrder" : 150,
+		"dateOfSale" : "2021-02-02",
+		"dateOfDelivery" : "2021-02-03"
+	},
+	{
+		"idOrders" : 3,
+		"orderCode" : "203",
+		"Customers_id" : 3,
+		"costOfOrder" : 150,
+		"dateOfSale" : "2021-03-03",
+		"dateOfDelivery" : "2021-03-04"
+	},
+	{
+		"idOrders" : 4,
+		"orderCode" : "204",
+		"Customers_id" : 4,
+		"costOfOrder" : 200,
+		"dateOfSale" : "2021-04-04",
+		"dateOfDelivery" : "2021-04-05"
+	},
+	{
+		"idOrders" : 5,
+		"orderCode" : "205",
+		"Customers_id" : 5,
+		"costOfOrder" : 105,
+		"dateOfSale" : "2021-05-05",
+		"dateOfDelivery" : "2021-05-06"
+	}
+]

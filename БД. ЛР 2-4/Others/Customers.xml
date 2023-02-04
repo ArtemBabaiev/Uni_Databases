@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">idCustomers</Data></Cell>
+			<Cell><Data ss:Type="String">customerCode</Data></Cell>
+			<Cell><Data ss:Type="String">surname</Data></Cell>
+			<Cell><Data ss:Type="String">firstname</Data></Cell>
+			<Cell><Data ss:Type="String">middlename</Data></Cell>
+			<Cell><Data ss:Type="String">address</Data></Cell>
+			<Cell><Data ss:Type="String">phoneNumber</Data></Cell>
+			<Cell><Data ss:Type="String">email</Data></Cell>
+			<Cell><Data ss:Type="String">isRegularCustomer</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">001</Data></Cell>
+			<Cell><Data ss:Type="String">Бабаєв</Data></Cell>
+			<Cell><Data ss:Type="String">Артем</Data></Cell>
+			<Cell><Data ss:Type="String">Ілліч</Data></Cell>
+			<Cell><Data ss:Type="String">Адреса 1</Data></Cell>
+			<Cell><Data ss:Type="String">11111</Data></Cell>
+			<Cell><Data ss:Type="String">email1@i.ua</Data></Cell>
+			<Cell><Data ss:Type="String">false</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">002</Data></Cell>
+			<Cell><Data ss:Type="String">Колотило</Data></Cell>
+			<Cell><Data ss:Type="String">Олексій</Data></Cell>
+			<Cell><Data ss:Type="String">По батькові 2</Data></Cell>
+			<Cell><Data ss:Type="String">Адреса 2</Data></Cell>
+			<Cell><Data ss:Type="String">22222</Data></Cell>
+			<Cell><Data ss:Type="String">email2@i.ua</Data></Cell>
+			<Cell><Data ss:Type="String">true</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">003</Data></Cell>
+			<Cell><Data ss:Type="String">Коваль</Data></Cell>
+			<Cell><Data ss:Type="String">Валентина</Data></Cell>
+			<Cell><Data ss:Type="String">По батькові 3</Data></Cell>
+			<Cell><Data ss:Type="String">Адреса 3</Data></Cell>
+			<Cell><Data ss:Type="String">33333</Data></Cell>
+			<Cell><Data ss:Type="String">email3@i.ua</Data></Cell>
+			<Cell><Data ss:Type="String">false</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">004</Data></Cell>
+			<Cell><Data ss:Type="String">Павлюк</Data></Cell>
+			<Cell><Data ss:Type="String">Ігор</Data></Cell>
+			<Cell><Data ss:Type="String">Олегович</Data></Cell>
+			<Cell><Data ss:Type="String">Адреса 4</Data></Cell>
+			<Cell><Data ss:Type="String">44444</Data></Cell>
+			<Cell><Data ss:Type="String">email4@i.ua</Data></Cell>
+			<Cell><Data ss:Type="String">true</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">005</Data></Cell>
+			<Cell><Data ss:Type="String">Драгомирецька</Data></Cell>
+			<Cell><Data ss:Type="String">Емілія</Data></Cell>
+			<Cell><Data ss:Type="String">По батькові 5</Data></Cell>
+			<Cell><Data ss:Type="String">Адреса 5</Data></Cell>
+			<Cell><Data ss:Type="String">55555</Data></Cell>
+			<Cell><Data ss:Type="String">email5@i.ua</Data></Cell>
+			<Cell><Data ss:Type="String">false</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

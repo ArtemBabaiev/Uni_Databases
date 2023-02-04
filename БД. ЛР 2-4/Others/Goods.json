@@ -1,0 +1,42 @@
+[
+	{
+		"idGoods" : 1,
+		"goodCode" : "101",
+		"name" : "Гречка",
+		"pirice" : 42,
+		"unit" : "кг",
+		"quantityInStcok" : 10
+	},
+	{
+		"idGoods" : 2,
+		"goodCode" : "102",
+		"name" : "Coca-cola",
+		"pirice" : 16,
+		"unit" : "л",
+		"quantityInStcok" : 0
+	},
+	{
+		"idGoods" : 3,
+		"goodCode" : "103",
+		"name" : "Телефон Xiaomi",
+		"pirice" : 300,
+		"unit" : "шт.",
+		"quantityInStcok" : 0
+	},
+	{
+		"idGoods" : 4,
+		"goodCode" : "104",
+		"name" : "Молоко",
+		"pirice" : 26,
+		"unit" : "л",
+		"quantityInStcok" : 40
+	},
+	{
+		"idGoods" : 5,
+		"goodCode" : "105",
+		"name" : "Мишка A4tech",
+		"pirice" : 500,
+		"unit" : "шт.",
+		"quantityInStcok" : 50
+	}
+]
